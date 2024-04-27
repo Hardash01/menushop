@@ -94,7 +94,7 @@ export const snacks = [
   },
   {
     id: 4,
-    name: "Galletas Picni",
+    name: "Galletas Picnic",
     price: 0.15
   },
   {
