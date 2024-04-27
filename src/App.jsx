@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-6xl font-bold text-white">Hola mundo desde React y Tailwindcss</h1>
+      <h1 className="text-6xl font-bold text-white text-center inline-block">Tienda Panda&Muñeca</h1>
       <Menu />
     </>
   )
