@@ -4,8 +4,10 @@ export function MenuSnacks () {
 
   return(
     <>
-      <h2 className="text-white text-center text-2xl uppercase py-3">esto es desde el menu</h2>
-      <ul className="space-y-5 px-3 w-full mx-auto">
+      <p className="text-center text-[#e4c590] uppercase">menu de</p>
+      <h2 className="text-white text-center text-2xl uppercase pb-3 tracking-widest">Snacks y Golosinas</h2>
+      <img className="w-full h-[200px] object-cover pb-3" src="./img/snac.webp" alt="image de snac" />
+      <ul className="space-y-5 px-3 w-full mx-auto mb-10">
         {snacks.map(snack => (
           <li key={snack.id} className="flex gap-4">
             <div className="w-full flex items-end justify-between">

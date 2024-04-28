@@ -141,47 +141,47 @@ export const aseoPersonal = [
     price: 0.35
   },
   {
-    id: 1,
+    id: 2,
     name: "Papel Higienico Paquete",
     price: 1.35
   },
   {
-    id: 1,
+    id: 3,
     name: "Cepillos de Diente",
     price: 0
   },
   {
-    id: 1,
+    id: 4,
     name: "Pasta de Dientes",
     price: 1.10
   },
   {
-    id: 1,
+    id: 5,
     name: "Jabon de baño",
     price: 1.10
   },
   {
-    id: 1,
+    id: 6,
     name: "Rinso",
     price: 1.10
   },
   {
-    id: 1,
+    id: 7,
     name: "Jabon de trastes",
     price: 0.35
   },
   {
-    id: 1,
+    id: 8,
     name: "Pega loca",
     price: 0.15
   },
   {
-    id: 1,
+    id: 9,
     name: "Prestobarbas",
     price: 1.10
   },
   {
-    id: 1,
+    id: 10,
     name: "Shampo sobrecito",
     price: 0.25
   }
